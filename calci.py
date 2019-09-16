@@ -1,10 +1,10 @@
 def add(x,y);
-pass
+fail
 
-def sub(x,y);
-pass
+def sub(x,y)
+fail
 
 def mul(x,y)
-pass
+fail
 def div(x,y)
-pass
+fail
